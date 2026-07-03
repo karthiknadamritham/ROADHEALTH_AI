@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "karthiknadamritham/roadhealth-ai",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "An AI-powered road and pavement defect detection, classification, and maintenance management platform using Google Gemini API.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
