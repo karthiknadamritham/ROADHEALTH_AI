@@ -135,15 +135,4 @@ To run the application locally, you will need to start both the Laravel web serv
    ```
    *The AI gateway will start running on http://127.0.0.1:8001.*
 
----
 
-## 🔑 Seeder Login Credentials
-
-For testing purposes, running `php artisan db:seed` will prepopulate the database with the following demo accounts (all accounts use the password `password`):
-
-| Role | Email | Password |
-|---|---|---|
-| **System Admin** | `admin@roadhealth.ai` | `password` |
-| **Government Officer** | `officer@roadhealth.ai` | `password` |
-| **Field Staff** | `staff@roadhealth.ai` | `password` |
-| **Citizen** | `citizen@roadhealth.ai` | `password` |
